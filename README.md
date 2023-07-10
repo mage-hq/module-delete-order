@@ -1,5 +1,5 @@
 # module-delete-order
-Delete Orders extension free allows admin to delete orders and all the related documents as Invoices, Shipments, Credit Memos.
+Admin can delete orders and all the related documents as Invoices, Credit Memos, Shipments with the Magento 2 Delete Orders extension.
 
 Please go to https://magehq.com/magento-2-delete-orders.html download free extension
 
